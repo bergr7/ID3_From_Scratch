@@ -1,6 +1,12 @@
 # ID3 algorithm scratch
 
+Check out my medium article:
+
+**
+
 All the code is in a public repository at the link below:
+
+https://github.com/bergr7/ID3_From_Scratch
 
 ## Table of Contents
 1. Installation
@@ -17,19 +23,23 @@ All the code is in a public repository at the link below:
 
     - pandas Version: 1.0.1
     - numpy Version: 1.19.2
-    - scikit-learn Version: 0.22.1
 
 ## Project Motivation
 
 I am interested in understanding how to code a Decision Tree algorithm from
 scratch.
 
-The goal of this project is to create a python module with classes and functions
-that implement the ID3 algorithm.
+Code created for writing a medium post about coding the ID3 algorithm to build a Decision Tree Classifier
+from scratch.
 
 ## Results
 
 Python module with the implementation of the ID3 algorithm.
+
+Resulting Decision tree:
+
+![picture](tree.png)
+
 
 ## Licensing, Authors and Acknowledgements
 
