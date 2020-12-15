@@ -2,7 +2,7 @@
 
 Check out my medium article:
 
-**
+https://towardsdatascience.com/id3-decision-tree-classifier-from-scratch-in-python-b38ef145fd90
 
 All the code is in a public repository at the link below:
 
